@@ -1,0 +1,9 @@
+.campus_div{
+    border: 5px solid lightslategray;
+}
+.campus_div img{
+    width: 100%;
+}
+.campus_div h4 , .campus_div p{
+    margin: 20px;
+}
